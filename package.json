@@ -9,7 +9,7 @@
     "start": "webpack && electron .",
     "dev": "webpack --watch",
     "electron": "electron .",
-    "package": "electron-builder --win --config"
+    "package": "electron-builder --win --x64"
   },
   "dependencies": {
     "react": "^18.2.0",
