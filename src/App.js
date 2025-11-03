@@ -2,7 +2,7 @@ import React from 'react';
 
 export default function App() {
   const teamMembers = [
-    'Jhoel Cruz',
+    'Jhoel Cruz Zurita',
     'Leonardo Peña Añez',
     'Douglas Flor Hernandez',
     'Luis Mario Rocha Vela'
