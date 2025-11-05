@@ -105,7 +105,6 @@ hola-mundo-app/
 ├── public/       # Archivos públicos
 │   └── assets/   # Recursos (íconos, imágenes)
 ```
-
 ---
 
 ### Paso 7: Crear archivo main.js (Proceso principal de Electron)
